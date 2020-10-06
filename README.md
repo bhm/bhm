@@ -1,4 +1,11 @@
-### Hi there 👋
+# Jacek Kuźniarski 
+
+I sometimes go by Joel Bodega (easier one for non Polish folks)
+
+- Working on Android since 2013
+- Kotlin, Bash
+- If you posted your app on reddit, I probably left CR over @github
+- I usually open source designs
 
 <!--
 **bhm/bhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
