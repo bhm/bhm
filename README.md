@@ -1,11 +1,15 @@
 # Jacek Kuźniarski 
 
+I get paid for working on Android apps. Linux/BSD/Raspberry Pi stuff I do in my spare time.
+
 I sometimes go by Joel Bodega (easier one for non Polish folks)
 
 - Working on Android since 2013
-- Kotlin, Bash
-- If you posted your app on reddit, I probably left CR over @github
-- I usually open source designs
+- Working with Linux since 2006-ish
+- Kotlin for Android, Bash for Linux/BSD
+- But also Java, C#, Python, C/++
+- If you posted your code on reddit, I probably left CR over @github
+- I usually open source designs unrelated to software
 
 <!--
 **bhm/bhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
